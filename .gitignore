@@ -1,0 +1,19 @@
+# Dependencies and runtime logs
+node_modules/
+npm-debug.log*
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Runtime configuration and user data (may contain credentials / private applications)
+data/*.json
+!data/.gitkeep
+
+# Local editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

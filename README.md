@@ -30,8 +30,8 @@ A Discord bot for Minecraft community administration, application handling, and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Fips2010/Minecraft-Bot-German/upload
-cd YOUR-REPOSITORY
+git clone https://github.com/Fips2010/Minecraft-Bot-German
+cd cd Minecraft-Bot-German
 ```
 
 ### 2. Configure environment variables

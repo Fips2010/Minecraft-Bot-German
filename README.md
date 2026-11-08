@@ -71,7 +71,6 @@ Slash commands are registered in the configured Discord server when the bot star
 | `/whitelist add` | Adds a Minecraft player to the whitelist through RCON. |
 | `/whitelist remove` | Removes a Minecraft player from the whitelist through RCON. |
 | `/voice-channel` | Creates or configures the voice channel used to display player count. |
-| `/ping` | Not included in the current command set. |
 
 ## Application workflow
 
